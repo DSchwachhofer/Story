@@ -1,1 +1,0 @@
-When we test things, we need to be careful not to be tested by those things.
